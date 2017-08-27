@@ -5,6 +5,7 @@ jobs/berlin-clock/lastStable
 jobs/berlin-clock/lastSuccessful
 jobs/berlin-clock/nextBuildNumber
 jobs/berlin-clock/workspace/
+m2deps/*
 jobs/maze-explorer/builds/
 jobs/maze-explorer/cobertura/
 jobs/maze-explorer/lastStable
